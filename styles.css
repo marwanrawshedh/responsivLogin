@@ -10,13 +10,13 @@ header{height: 50px;background-color: #3651c4;width: 100%;min-width:170px ;}
     left      : 50%;
     top       : 50%;
     transform : translate(-50%, -50%);
-    padding-bottom: 170px;
+    padding-bottom: 180px;
     padding-top: .1px;
     z-index: -2;
 }
-input{margin-bottom: 10px ;padding-top: 5px;}
+input{margin-bottom: 10px ;padding-top: 5px;padding-bottom: 5px;}
 
-button{background-color: #e84546; color: thistle;float: right;width: 50%;padding-top: 5px;}
+button{background-color: #e84546; color: thistle;float: right;width: 50%;padding-top: 5px;border-color:#e84546 ;padding-bottom: 5px; border-style: solid;}
 
 
 
